@@ -12,8 +12,6 @@
 
 - ⚡ [My Blog](https://zqchen.me)
 - ⚡ [CSDN](https://blog.csdn.net/chenzz444)
-- ⚡ [cnblogs](https://www.cnblogs.com/zqchen33/)
-- ⚡ [Gitee](https://gitee.com/zhuoqun-chen)
 
 <!--
 ### Platforms & Tools 🔧
