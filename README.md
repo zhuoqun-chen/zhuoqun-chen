@@ -7,7 +7,7 @@ I'm currently a first-year MS student at [UC San Diego](https://ucsd.edu/), advi
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhuoqun-chen&show_icons=true&theme=radical" alt="zhuoqun-chen's GitHub Stats"/>
 
-- 🔭 [Horizon Robotics](https://www.horizon.ai/) - Ex-Intern in VIO Group, BSP Dev Dept.
+- 🔭 [Horizon Robotics](https://www.horizon.ai/) - Ex-Intern in VIO Group, BSP Dept.
 - 🧰 Toolbox: Pytorch / ROS / SLAM / Blender
 - 🤖 Quadrupedal Locomotion / Robot Manipulation / SLAM / Computer Vision
 - 📫 [zqchen33@gmail.com](https://mail.google.com/)
