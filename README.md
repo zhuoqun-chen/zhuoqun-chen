@@ -10,7 +10,7 @@ I'm currently a first-year MS student at [UC San Diego](https://ucsd.edu/), advi
 - 🔭 [Horizon Robotics](https://www.horizon.ai/) - Ex-Intern in VIO Group, BSP Dept.
 - 🧰 Toolbox: Pytorch / ROS / SLAM / Blender
 - 🤖 Quadrupedal Locomotion / Robot Manipulation / SLAM / Computer Vision
-- 📫 [zqchen33@gmail.com](https://mail.google.com/)
+- 📫 [zqchen33[at]gmail[dot]com](mailto:zqchen33@gmail.com)
 
 ### You can know more about me via:
 + [https://zqchen.me](https://zqchen.me)
