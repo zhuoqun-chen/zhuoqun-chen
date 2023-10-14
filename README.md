@@ -1,6 +1,6 @@
 ## Hi there, this is zqchen! 👋
 
-I'm currently a ~first~ second-year MS student at [UC San Diego](https://ucsd.edu/), advised by [Prof. Xiaolong Wang](https://xiaolonw.github.io/). I'm interested in reinforcement learning, decision making and motion planning in Robotics. My ongoing project is about Quadrupedal Locomotion.
+I'm currently a ~first~ second-year Master student at [UC San Diego](https://ucsd.edu/), advised by [Prof. Xiaolong Wang](https://xiaolonw.github.io/). I'm interested in reinforcement learning, decision making and motion planning in Robotics. My ongoing project is about Quadrupedal Locomotion.
 
 
 ###  Experience
