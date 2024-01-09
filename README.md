@@ -5,7 +5,7 @@ I'm currently a ~first~ second-year Master student at [UC San Diego](https://ucs
 
 ###  Experience
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhuoqun-chen&show_icons=true&theme=radical" alt="zhuoqun-chen's GitHub Stats"/>
+<img align="right" src="https://github-readme-stats-flame-eta-51.vercel.app/api?username=zhuoqun-chen&show_icons=true&theme=radical" alt="zhuoqun-chen's GitHub Stats"/>
 
 - 🔭 [Horizon Robotics](https://www.horizon.ai/) - Ex-Intern in VIO Group, BSP Dept.
 - 🧰 Toolbox: Pytorch / ROS / SLAM / Blender
@@ -49,6 +49,9 @@ I'm currently a ~first~ second-year Master student at [UC San Diego](https://ucs
 ### My GitHub Stats &#x1f4c8;
 
 ![zhuoqun-chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuoqun-chen&show_icons=true&theme=radical)
+
+the public is deprecated because can't show private stats
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhuoqun-chen&show_icons=true&theme=radical" alt="zhuoqun-chen's GitHub Stats"/>
 -->
 
 <!--
