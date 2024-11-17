@@ -1,6 +1,6 @@
-<!--
 ## Hi there, this is zqchen! 👋
-
+<img src="https://github-readme-stats-flame-eta-51.vercel.app/api?username=zhuoqun-chen&show_icons=true&theme=radical" alt="zhuoqun-chen's GitHub Stats"/>
+<!--
 I'm currently a ~first~ second-year Master student at [UC San Diego](https://ucsd.edu/), advised by [Prof. Xiaolong Wang](https://xiaolonw.github.io/). I'm interested in reinforcement learning, decision making and motion planning in Robotics. My ongoing project is about Quadrupedal Locomotion.
 
 
